@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">sace</string>
+
+    <!--colors!-->
+    <string name="Red">#FF0000</string>
+    <string name="Green">#008000</string>
+    <string name="Blue">#0000FF</string>
+    <string name="Black">#000000</string>
+    <string name="Pink">#FFC0CB</string>
+    <string name="Orange">#FFA500</string>
+    <string name="Purple">#800080</string>
+    <string name="Yellow">#FFFF00</string>
+    <string name="Cyan">#00FFFF</string>
+    <string name="Gold">#FFD700</string>
+    <string name="Maroon">#800000</string>
+    <string name="Teal">#008080</string>
+    <string name="Accent">#FF4081</string>
+
+
+    <string-array name="colors">
+        <item>@string/Red</item>
+        <item>@string/Green</item>
+        <item>@string/Blue</item>
+        <item>@string/Black</item>
+        <item>@string/Pink</item>
+        <item>@string/Orange</item>
+        <item>@string/Purple</item>
+        <item>@string/Cyan</item>
+        <item>@string/Gold</item>
+        <item>@string/Maroon</item>
+        <item>@string/Teal</item>
+        <item>@string/Accent</item>
+    </string-array>
+
+    <!--Id Type!-->
+    <string name="Citizen">South African Citezen</string>
+    <string name="Foreign">Foreign</string>
+    <string-array name="idType">
+        <item>@string/Citizen</item>
+        <item>@string/Foreign</item>
+    </string-array>
+
+    <!--Educator position!-->
+    <string name="ADP">Acting Deputy Principal</string>
+    <string name="AH">Acting HOD</string>
+    <string name="AP">Acting Principal</string>
+    <string name="DP">Deputy Principal</string>
+    <string name="HOD">HOD</string>
+    <string name="P">Principal</string>
+    <string name="S">Student</string>
+    <string name="T">Teacher</string>
+    <string-array name="EducatorPosition">
+        <item>@string/ADP</item>
+        <item>@string/AH</item>
+        <item>@string/AP</item>
+        <item>@string/DP</item>
+        <item>@string/HOD</item>
+        <item>@string/P</item>
+        <item>@string/S</item>
+        <item>@string/T</item>
+    </string-array>
+
+    <!--Titles!-->
+    <string name="Dr">Dr.</string>
+    <string name="Miss">Miss</string>
+    <string name="Mr">Mr.</string>
+    <string name="Mrs">Mrs.</string>
+    <string name="Ms">Ms.</string>
+    <string name="Prof">Prof.</string>
+    <string-array name="Title">
+        <item>@string/Dr</item>
+        <item>@string/Miss</item>
+        <item>@string/Mr</item>
+        <item>@string/Mrs</item>
+        <item>@string/Ms</item>
+        <item>@string/Prof</item>
+    </string-array>
+
+    <!--Gender!-->
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string-array name="Gender">
+        <item>@string/Male</item>
+        <item>@string/Male</item>
+    </string-array>
+
+    <!--Province!-->
+    <string name="Ec">Eastern Cape</string>
+    <string name="Fs">Free State</string>
+    <string name="Gp">Gauteng</string>
+    <string name="Kzn">Kwa-Zulu Natal</string>
+    <string name="Lp">Limpopo Province</string>
+    <string name="Mp">Mpumalanga</string>
+    <string name="Nw">North West Province</string>
+    <string name="Nc">Northern Cape</string>
+    <string name="Wc">Western Cape</string>
+    <string-array name="Province">
+        <item>@string/Ec</item>
+        <item>@string/Fs</item>
+        <item>@string/Gp</item>
+        <item>@string/Kzn</item>
+        <item>@string/Lp</item>
+        <item>@string/Mp</item>
+        <item>@string/Nw</item>
+        <item>@string/Nc</item>
+        <item>@string/Wc</item>
+    </string-array>
+
+    <!--PostLevel!-->
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string-array name="PostLevel">
+        <item>@string/One</item>
+        <item>@string/Two</item>
+        <item>@string/Three</item>
+        <item>@string/Four</item>
+    </string-array>
+
+    <!--PopulationGroup!-->
+    <string name="African">African</string>
+    <string name="Asian">Asian</string>
+    <string name="Colored">Coloured</string>
+    <string name="Indian">Indian</string>
+    <string name="White">White</string>
+    <string name="Other">Other</string>
+    <string-array name="PopulationGroup">
+        <item>@string/African</item>
+        <item>@string/Asian</item>
+        <item>@string/Colored</item>
+        <item>@string/Indian</item>
+        <item>@string/White</item>
+        <item>@string/Other</item>
+    </string-array>
+
+    <!--EmploymentStatus!-->
+    <string name="Permanent">Permanent</string>
+    <string name="Temporary">Temporary</string>
+    <string-array name="EmploymentStatus">
+        <item>@string/Permanent</item>
+        <item>@string/Temporary</item>
+    </string-array>
+
+    <!--EmploymentBody!-->
+    <string name="Ind">Independent School/Boards</string>
+    <string name="Pde">Provincial department of Education</string>
+    <string name="Sgb">School Governing Body</string>
+    <string-array name="EmploymentBody">
+        <item>@string/Ind</item>
+        <item>@string/Pde</item>
+        <item>@string/Sgb</item>
+    </string-array>
+
+
+    <!--Districts!-->
+    <string name="Amajuba">Amajuba</string>
+    <string name="Bohlabela">Bohlabela</string>
+    <string name="Bojanala">Bojanala</string>
+    <string name="Butterworth">Butterworth</string>
+    <string name="CapeWinelands">Cape Winelands</string>
+    <string name="Capricorn">Capricorn</string>
+    <string name="Cofimvaba">Cofimvaba</string>
+    <string name="Cradock">Cradock</string>
+    <string name="DeAar">De Aar: Pixley-Ka-Seme</string>
+    <string name="DrKen">Dr Kenneth Kaunda</string>
+    <string name="DrRuth">Dr RuthSegomotsi Mompati</string>
+    <string name="Dutywa">Dutywa</string>
+    <string name="EastLondon">East London</string>
+    <string name="Eden">Eden &amp;&amp; Central Karoo</string>
+    <string name="Ehlanzeni">Ehlanzeni</string>
+    <string name="EkurhuleniNorth">Ekurhuleni North</string>
+    <string name="EkurhuleniSouth">Ekurhuleni South</string>
+    <string name="FezileDabi">Fezile Dabi</string>
+    <string name="FortBeaufort">Fort Beaufort</string>
+    <string-array name="districts">
+        <item>@string/Amajuba</item>
+        <item>@string/Bohlabela</item>
+        <item>@string/Bojanala</item>
+        <item>@string/Butterworth</item>
+        <item>@string/CapeWinelands</item>
+        <item>@string/Capricorn</item>
+        <item>@string/Cofimvaba</item>
+        <item>@string/Cradock</item>
+        <item>@string/DeAar</item>
+        <item>@string/DrKen</item>
+        <item>@string/DrRuth</item>
+        <item>@string/Dutywa</item>
+        <item>@string/EastLondon</item>
+        <item>@string/Eden</item>
+        <item>@string/Ehlanzeni</item>
+        <item>@string/EkurhuleniNorth</item>
+        <item>@string/EkurhuleniSouth</item>
+        <item>@string/FezileDabi</item>
+        <item>@string/FortBeaufort</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

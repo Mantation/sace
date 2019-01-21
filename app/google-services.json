@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601266867430",
+    "firebase_url": "https://sace-54c57.firebaseio.com",
+    "project_id": "sace-54c57",
+    "storage_bucket": "sace-54c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601266867430:android:9193472787d31003",
+        "android_client_info": {
+          "package_name": "com.example.bombo.sace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601266867430-6ugpejavjlepr7q2f9scj1tbhjjdkmjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bombo.sace",
+            "certificate_hash": "08939cd7b1fe8947b0908281bca6d02b14708f36"
+          }
+        },
+        {
+          "client_id": "601266867430-f35204h3r6ha4jqdt1ofclutij8805fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8nEeiPDG3OCILXZdx-kV41xUydMdNNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601266867430-f35204h3r6ha4jqdt1ofclutij8805fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
